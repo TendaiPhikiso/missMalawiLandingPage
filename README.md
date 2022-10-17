@@ -1,6 +1,6 @@
 # 👑 Miss Malawi Landing Page 👑
 
-![desktopui](https://github.com/TendaiPhikiso/missMalawiLandingPage/blob/main/MissMalawiLandingPage.png)
+![desktopui](https://github.com/TendaiPhikiso/missMalawiLandingPage/blob/main/LandingPagePreview.png)
 
 ## Summary
 
